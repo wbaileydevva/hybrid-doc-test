@@ -1,0 +1,16 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Standalone Documentation Test
+  description: Testing Standalone documentation.
+  tags:
+    - documentation
+    - testing
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+    bih/techdocs-builder: local
+spec:
+  type: documentation
+  owner: team-1
+  system: system-1
+  lifecycle: experimental
