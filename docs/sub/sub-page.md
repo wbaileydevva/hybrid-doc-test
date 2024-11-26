@@ -1,3 +1,2 @@
 # Hello World!
-
-![](images//dex-logo.png)
+![dex logo](images/dex-logo.png)
