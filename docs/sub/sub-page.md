@@ -1,2 +1,2 @@
 # Hello World!
-![dex logo](images/dex-logo.png)
+![dex logo](/docs/images/dex-logo.png)
