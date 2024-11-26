@@ -3,7 +3,8 @@ site_name: 'Test Docs Only Repo'
 # Navigation structure
 nav:
   - Overview: "index.md"
-  - Tagging: "sub/sub-page.md"
+  - FinOps: 
+    - Tagging: "sub/sub-page.md"
 
 
 plugins:
