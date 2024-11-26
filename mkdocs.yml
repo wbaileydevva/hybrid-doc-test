@@ -3,7 +3,7 @@ site_name: 'Test Docs Only Repo'
 nav:
   - Overview: index.md
   - FinOps:
-    - Tagging: "./docs/sub/sub-page.md"
+    - Tagging: "sub/sub-page.md"
 
 plugins:
   - techdocs-core
