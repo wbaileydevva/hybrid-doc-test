@@ -1,9 +1,11 @@
 site_name: 'Test Docs Only Repo'
 
+# Navigation structure
 nav:
-  - Overview: index.md
+  - Overview: "index.md"
   - FinOps:
-    - Tagging: "sub/sub-page.md"
+      - Tagging: "sub/sub-page.md"
+
 
 plugins:
   - techdocs-core
