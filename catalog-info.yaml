@@ -7,7 +7,7 @@ metadata:
     - documentation
     - testing
   annotations:
-    backstage.io/techdocs-ref: wiki:https://github.com/wbaileydevva/hybrid-doc-test.wiki.git.
+    backstage.io/techdocs-ref: wiki:https://github.com/wbaileydevva/hybrid-doc-test.wiki.git
     bih/techdocs-builder: local
 spec:
   type: documentation
